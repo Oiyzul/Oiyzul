@@ -30,12 +30,14 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Oiyzul&theme=dark" alt="GitHub Streak" /></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Oiyzul)](https://github.com/ryo-ma/github-profile-trophy)
+<!--
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,vscode,ts,react,vite,nextjs,redux,nodejs,express,mongodb,firebase,figma,materialui,tailwind,netlify&perline=7&theme=dark" />
   </a>
 </p>
+-->
 <h3>Where to find me</h3>
 <p>
   <a href="https://github.com/Oiyzul" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
