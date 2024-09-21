@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Oiyzul)](https://github.com/ryo-ma/github-profile-trophy)
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,CSS,js, vscode, ts, react, vite, next, redux, node, express, mongoose, MongoDB, firebase, figma, materialui, tailwind, netlify,  &theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,ts,react,vite,nextjs,redux,nodejs,express,mongodb,firebase,figma,materialui,tailwind,netlify&theme=dark)](https://skillicons.dev)
