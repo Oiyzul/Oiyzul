@@ -4,11 +4,11 @@
 **Oiyzul/Oiyzul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <p>Welcome to my page. <be /> I'm Waizul, an aspiring MERN stack developer from Dhaka, Bangladesh.</p>
+  
 - 🔭 I’m currently working on a social media project.
 - 🌱 I’m currently learning MERN stacks, next.js, typescript
 - 👯 I’m looking to collaborate on personal and business projects.
-- 🤔 I’m looking for mentorship
-- 💬 Ask me about ...
+- 🤔 I’m looking for mentorship.
 - 📫 How to reach me: You can mail or follow me on LinkedIn.
 - ⚡ Fun fact: Sometimes I am just happy for no reason.
 
@@ -27,6 +27,8 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+
+
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Oiyzul&theme=dark" alt="GitHub Streak" /></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Oiyzul)](https://github.com/ryo-ma/github-profile-trophy)
